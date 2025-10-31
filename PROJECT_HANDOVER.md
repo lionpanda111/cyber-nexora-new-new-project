@@ -3,7 +3,7 @@
 ## 🚀 Project Overview
 
 **Company:** Cyber Nexora  
-**Tagline:** Next-Gen Cyber Defence & VAPT Solutions  
+**Tagline:** YOUR NEX-GEN CYBER SHIELD  & VAPT Solutions  
 **Location:** Surat, Gujarat  
 **Contact:** info@cybernexora.com | +91 9327084456
 

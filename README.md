@@ -1,4 +1,4 @@
-# Cyber Nexora - Next-Gen Cyber Defence & VAPT Solutions
+# Cyber Nexora - YOUR NEX-GEN CYBER SHIELD  & VAPT Solutions
 
 ![Cyber Nexora](src/assets/cyber-nexora-logo.png)
 

@@ -45,7 +45,7 @@ const Navbar = () => {
             <img src={logo} alt="Cyber Nexora" className="h-12 w-12 group-hover:scale-110 transition-transform" />
             <div className="flex flex-col">
               <span className="text-xl font-bold text-gradient">CyberNexora</span>
-              <span className="text-xs text-muted-foreground">Next-Gen Cyber Defence</span>
+              <span className="text-xs text-muted-foreground">YOUR NEX-GEN CYBER SHIELD </span>
             </div>
           </Link>
 

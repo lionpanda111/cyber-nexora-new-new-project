@@ -27,14 +27,14 @@ const Footer = () => {
               <img src={logo} alt="Cyber Nexora" className="h-10 w-10" />
               <div>
                 <span className="text-lg font-bold text-gradient">CyberNexora</span>
-                <p className="text-xs text-muted-foreground">Next-Gen Cyber Defence</p>
+                <p className="text-xs text-muted-foreground">YOUR NEX-GEN CYBER SHIELD </p>
               </div>
             </div>
             <p className="text-sm text-muted-foreground">
               Leading provider of comprehensive cybersecurity solutions and VAPT services, protecting businesses from evolving digital threats.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="https://www.linkedin.com/company/cybernexora/" className="text-muted-foreground hover:text-primary transition-colors">
                 <Linkedin className="w-5 h-5" />
               </a>
               <a href="#" className="text-muted-foreground hover:text-primary transition-colors">

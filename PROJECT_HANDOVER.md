@@ -258,7 +258,7 @@ Create detail pages for remaining services following the WebVAPT pattern:
 **Add a new page:**
 1. Create page component in `src/pages/`
 2. Add route in `src/App.tsx`
-3. Add navigation link in `src/components/Navbar.tsx`
+3. Add navigation link in ``
 
 **Update company information:**
 - Edit contact details in `src/components/Footer.tsx`
@@ -288,5 +288,4 @@ Create detail pages for remaining services following the WebVAPT pattern:
 
 ---
 
-**Built with ❤️ by Lovable AI**  
 For questions or support, contact: info@cybernexora.com
